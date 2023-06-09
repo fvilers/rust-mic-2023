@@ -1,4 +1,4 @@
-# software-craft-luxembourg
+# rust-mic-2023
 
 Pourquoi vous devriez vous y intéresser en 2023
 
