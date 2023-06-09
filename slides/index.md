@@ -74,6 +74,16 @@ p img {
 
 ---
 
+# Qu'est-ce que Rust ?
+
+- Non, nous ne parlerons pas du jeu vidéo éponyme
+- Langage de programmation
+  - Compilé
+  - Statiquement typé
+  - Multi-paradigme
+
+---
+
 # Pourquoi Rust ?
 
 - Utilisé et supporté par [AWS](https://aws.amazon.com/developer/language/rust/), [Firefox](https://hacks.mozilla.org/2019/02/rewriting-a-browser-component-in-rust/), [Deno](https://github.com/denoland/deno), le noyau de [Linux](https://thenewstack.io/rust-in-the-linux-kernel/), [Dropbox](https://dropbox.tech/application/why-we-built-a-custom-rust-library-for-capture), [Cloudflare](https://blog.cloudflare.com/introducing-oxy/), [Discord](https://discord.com/blog/why-discord-is-switching-from-go-to-rust), [Microsoft Windows](https://youtu.be/8T6ClX-y2AE?t=2611) et bien d'autres
